@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oez5n687H1ImUOUVQ0m43FpYT2Ik",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "kCCLPV6AcbbfHtv0QyHf_1iprNSu65glEIRahCVBIn8",
+      useTemplateId: "Xf-vJwMgRejcPzbDaEaunsY6iV62lHp_Dxad5rQBRvg",
       // 所在省份
       province: "山西",
       // 所在城市
@@ -78,7 +78,7 @@ export const USER_CONFIG = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "老婆", "year": "2003", "date": "11-27"},
+        {"type": "*生日", "name": "妞妞宝贝", "year": "2003", "date": "11-27"},
         {"type": "节日", "name": "恋爱周年", "year": "2019", "date": "10-28"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         //{"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
@@ -100,7 +100,7 @@ export const USER_CONFIG = {
    */
   
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "dqgF4aZJwnQzp-beaga8fOyzEojSQFfc1fjAWYzec50",
+  CALLBACK_TEMPLATE_ID: "6B86fOQOFRm3KhjnvL_twV3KtMbXXDhga8ldM9Bdcm4",
   
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
